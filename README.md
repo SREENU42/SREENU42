@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreenu basha</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-- 🌱 I’m currently learning **Html, css, javascript, Java,**
+- 🌱 I’m currently learning **Html, css, javascript, React, Java, Spring, Spring Boot, sql, MySQL,REST API, AWS**
 
 - 📫 How to reach me **sreenulam4@gmail.com**
 
