@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreenu basha</h1>
+<h1 align="center">Hi 👋, I'm Sreenu basha</h1
 <h3 align="center">A passionate Backend Developer </h3>
 
 - 🌱 I’m currently learning ** Java, Spring, Spring Boot, sql, MySQL,REST API, AWS**
