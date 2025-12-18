@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sreenu basha</h1
 <h3 align="center">A passionate Backend Developer </h3>
 
-- 🌱 I’m currently learning ** Java, Spring, Spring Boot, sql, MySQL,REST API, AWS**
+🚀 Java Backend Developer  
+💻 Core Java | OOPS | Collections | Data Structures  
+🧠 Strong in problem solving and backend logic  
+📌 Building interview-ready Java projects  
+
+### 🛠 Skills
+- Core Java
+- OOPS
+- Java Collections Framework
+- Data Structures & Algorithms
+- Problem Solving
+
+### 📂 Projects
+- Library Management System
+- Banking System
+- LRU Cache using LinkedHashMap
+- Student Result Management System
+
+### 🎯 Goal
+To become a skilled backend developer** Java, Spring, Spring Boot, sql, MySQL,REST API, AWS**
 
 - 📫 How to reach me **sreenulam4@gmail.com**
 
