@@ -12,13 +12,6 @@
 - Java Collections Framework
 - Data Structures & Algorithms
 - Problem Solving
-
-### 📂 Projects
-- Library Management System
-- Banking System
-- LRU Cache using LinkedHashMap
-- Student Result Management System
-
 ### 🎯 Goal
 To become a skilled backend developer** Java, Spring, Spring Boot, sql, MySQL,REST API, AWS**
 
