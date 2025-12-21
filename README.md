@@ -4,7 +4,7 @@
 🚀 Java Backend Developer  
 💻 Core Java | OOPS | Collections | Data Structures  
 🧠 Strong in problem solving and backend logic  
-📌 Building interview-ready Java projects  
+📌 Building interview-ready Java projects 
 
 ### 🛠 Skills
 - Core Java
