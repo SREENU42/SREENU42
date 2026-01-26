@@ -29,7 +29,7 @@
 - Used DTOs, JPA/Hibernate, and Postman for API testing  
 - Designed with real-world backend best practices  
 
-👉 Check repositories for more backend-focused projects.
+Check repositories for more backend-focused projects.
 
 ---
 
